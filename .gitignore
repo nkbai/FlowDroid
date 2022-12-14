@@ -6,3 +6,4 @@ soot-infoflow-summaries/target/
 *.iml
 target/
 */target
+.DS_Store
